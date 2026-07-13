@@ -124,5 +124,5 @@
 
 [dawnbreezze](https://github.com/dawnbreezze) is pony town's **AOI KANZAKI**
 
-**I'm sorry if you weren't added, some of the nominations were deleted right before I started making the list. I created this account on July 3rd, so if you sent a nomination on July 3rd and don't see the person you nominated in their category, it's highly likely that it was deleted, so you can resend through the strawpage if you'd like :)**
+**I'm sorry if you weren't added, some of the nominations were deleted right before I started making the list. I created this account on July 3rd, so if you sent a nomination on July 3rd and don't see the person you nominated in their category, it's highly likely that it was deleted, so you can resend through the strawpage if you'd like :) Also, some people changed their git usernames so I couldn't add them.**
 
