@@ -2,7 +2,7 @@
 
 ***SCROLL TO BOTTOM IF YOU NOMINATED YOURSELF OR SOMEONE ELSE ON JULY 3RD AND THEY WEREN'T ADDED***
 
-**Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going. Requests are back open! I will be adding people when I can from now on! Request someone through the strawpage, instructions are there!** ***https://ptstars.straw.page/***
+**Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going. Requests will be back open once I finish making the stars for the current honourees!**
 
 **THREE NEW CATEGORIES THAT WERE REQUESTED:** C+Hers, creative github usernames (these two will be added when someone gets nominated for them!) heavily tinted ponies
 
