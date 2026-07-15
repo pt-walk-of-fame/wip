@@ -64,7 +64,7 @@
 
 [CONEXlONN](https://github.com/CONEXlONN) is pony town's **SHARPNESS**
 
-[CONSTELLATED-NIGHT](https://github.com/constellated-night) is pony town's **KING IN YELLOW**
+[CONSTELLATED-NIGHT](https://github.com/constellated-night) is pony town's **EGGCHAN**
 
 [Tasouken](https://github.com/tasouken) is pony town's **FINN MERTENS**
 
