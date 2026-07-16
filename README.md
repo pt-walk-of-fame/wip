@@ -1,6 +1,6 @@
 # THE PT WALK OF FAME
 
-**Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can.
+**Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can.**
 
 **[NOMINATE SOMEONE](https://ptstars.straw.page/)** , **[SCROLL OF FAME](https://github.com/pt-walk-of-fame/SCROLL-OF-FAME)**
 
