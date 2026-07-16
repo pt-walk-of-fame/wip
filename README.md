@@ -20,7 +20,7 @@
 
 # CHARACTERS OF PONY TOWN (alphabetical order)
 
-[01-800-PAPU](https://github.com/01-800-papu) is pony town's **ALDO GEO**
+[01-800-PAPU](https://github.com/01-800-papu) is pony town's **ALDO_GEO**
 
 [100bottlesofglue](https://github.com/100bottlesofglue) is pony town's **SPOKEISHERE**
 
