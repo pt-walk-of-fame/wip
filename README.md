@@ -16,7 +16,7 @@
 
 **CREATIVE GITHUB USERNAMES:** [KALININGRAD-OBLAST](https://github.com/KALININGRAD-OBLAST)
 
-**C+HERS:** [SweetMeIodys](https://github.com/sweetmeiodys)
+**C+HERS:** [SweetMeIodys](https://github.com/sweetmeiodys), [Xaplastcore](https://github.com/xaplastcore)
 
 # CHARACTERS OF PONY TOWN (alphabetical order)
 
@@ -77,6 +77,8 @@
 [elisxne](https://github.com/elisxne) is pony town's **REGECT**
 
 [evboMC](https://github.com/evbomc) is pony town's **EVBO_**
+
+[eyeofcas](https://github.com/eyeofcas) is pony town's **CASTIEL**
 
 [faelightgex](https://github.com/faelightgex) is pony town's **COLUMBINA**
 
@@ -168,6 +170,8 @@
 
 [Tasouken](https://github.com/tasouken) is pony town's **FINN MERTENS**
 
+[thefleshcurtains](https://github.com/thefleshcurtains) is pony town's **SAM WINCHESTER**
+
 [thelasttwilight](https://github.com/thelasttwilight) is pony town's **JOHNNY STORM**
 
 [TheStarOfTheShoww](https://github.com/thestaroftheshoww) is pony town's **DANDY DANCIFER**
@@ -188,7 +192,11 @@
 
 [WishingAngel](https://github.com/wishingangel) is pony town's **SUBSPACE**
 
+[wishlizx](https://github.com/wishlizx) is pony town's **BEN DROWNED**
+
 [wlogeu](https://github.com/wlogeu) is pony town's **RED** (among us show)
+
+[Xaplastcore](https://github.com/xaplastcore) is pony town's **OPTIMUS PRIME**
 
 [yaasuhiro](https://github.com/yaasuhiro) is pony town's **YASUHIRO HAGAKURE**
 
