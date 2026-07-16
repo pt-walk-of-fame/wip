@@ -80,6 +80,8 @@
 
 [Gamblersi](https://github.com/gamblersi) is pony town's **CHANCE**
 
+[garferss](https://github.com/garferss) is pony town's **ASHSWAG**
+
 [gorg97](https://github.com/gorg97) is pony town's **BALLOONICORN**
 
 [hamfoolish](https://github.com/hamfoolish) is pony town's **GREEN LANTERN**
