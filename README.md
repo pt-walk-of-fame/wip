@@ -80,8 +80,6 @@
 
 [evboMC](https://github.com/evbomc) is pony town's **EVBO_**
 
-[eyeofcas](https://github.com/eyeofcas) is pony town's **CASTIEL**
-
 [faelightgex](https://github.com/faelightgex) is pony town's **COLUMBINA**
 
 [Flyingdragoncorn](https://github.com/flyingdragoncorn) is pony town's **MEDIC**
@@ -175,6 +173,8 @@
 [thefleshcurtains](https://github.com/thefleshcurtains) is pony town's **SAM WINCHESTER**
 
 [thelasttwilight](https://github.com/thelasttwilight) is pony town's **JOHNNY STORM**
+
+[therealcastiel](https://github.com/therealcastiel) is pony town's **CASTIEL**
 
 [TheStarOfTheShoww](https://github.com/thestaroftheshoww) is pony town's **DANDY DANCIFER**
 
