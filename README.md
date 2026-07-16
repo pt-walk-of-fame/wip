@@ -46,6 +46,8 @@
 
 [BlindfoldBandits](https://github.com/blindfoldbandits) is pony town's **MANEPEAR**
 
+[bluevxmpire](https://github.com/bluevxmpire) is pony town's **PHAINON**
+
 [burningsins](https://github.com/burningsins) is pony town's **KEIGO TAKAMI**
 
 [Cellubito](https://github.com/cellubito) is pony town's **TAPH**
@@ -100,6 +102,8 @@
 
 [kingofalejandro](https://github.com/kingofalejandro) is pony town's **SONIC THE HEDGEHOG**
 
+[Kingsbreak](https://github.com/kingsbreak) is pony town's **BRUSHA THE PAINT BRUSH**
+
 [kiwiconicc](https://github.com/kiwiconicc) is pony town's **SAIKI KUSUO**
 
 [malepregnancy](https://github.com/malepregnancy) is pony town's **SAPARATA**
@@ -143,6 +147,8 @@
 [sproutseedlymain](https://github.com/sproutseedlymain) is pony town's **SPROUT SEEDLY**
 
 [sspacedoutz](https://github.com/sspacedoutz) is pony town's **SLINGSHOT**
+
+[SUGERPUNK](https://github.com/sugerpunk) is pony town's **NURSE** (animal hospital)
 
 [SweetMeIodys](https://github.com/sweetmeiodys) is pony town's **SHELLY FOSSILIAN**
 
