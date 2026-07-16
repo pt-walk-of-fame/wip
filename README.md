@@ -38,6 +38,8 @@
 
 [Asrieluo](https://github.com/asrieluo) is pony town's **RIBBIT**
 
+[BassieBloomington](https://github.com/bassiebloomington) is pony town's **BASSIE BLOOMINGTON**
+
 [blehpigsterr](https://github.com/blehpigsterr) is pony town's **LILLY** (daycare story)
 
 [BlG-SHOT](https://github.com/blg-shot) is pony town's **SPAMTON**
@@ -81,6 +83,8 @@
 [Gamblersi](https://github.com/gamblersi) is pony town's **CHANCE**
 
 [garferss](https://github.com/garferss) is pony town's **ASHSWAG**
+
+[glisteningmirrors](https://github.com/glisteningmirrors) is pony town's **GLISTEN THE MIRROR**
 
 [gorg97](https://github.com/gorg97) is pony town's **BALLOONICORN**
 
