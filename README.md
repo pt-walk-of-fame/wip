@@ -2,7 +2,7 @@
 
 **Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can.**
 
-**[NOMINATE SOMEONE](https://ptstars.straw.page/)** , **[SCROLL OF FAME](https://github.com/pt-walk-of-fame/SCROLL-OF-FAME)**
+# **[NOMINATE SOMEONE](https://ptstars.straw.page/)** , **[SCROLL OF FAME](https://github.com/pt-walk-of-fame/SCROLL-OF-FAME)**
 
 **POPULAR/WELL-KNOWN PLAYERS:** [5poke](https://github.com/5poke), [Gamblersi](https://github.com/gamblersi), [emariyaoi](https://github.com/emariyaoi), [timejumpduo](https://github.com/timejumpduo), [CONEXlONN](https://github.com/CONEXlONN), [tirgery123](https://github.com/tirgery123), [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST), [evboMC](https://github.com/evboMC), [gambling-addict](https://github.com/gambling-addict), [clownfoe](https://github.com/clownfoe), [yvoisen](https://github.com/yvoisen), [Asrieluo](https://github.com/asrieluo), [qnakin](https://github.com/qnakin), [horroryaoi](https://github.com/horroryaoi), [yubelsrevenge](https://github.com/yubelsrevenge), [infugue](https://github.com/infugue), [100bottlesofglue](https://github.com/100bottlesofglue), [chick-habit](https://github.com/chick-habit)
 
