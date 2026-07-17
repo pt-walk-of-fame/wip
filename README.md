@@ -84,6 +84,8 @@
 
 [elisxne](https://github.com/elisxne) is pony town's **REGECT**
 
+[emmmzi](https://github.com/emmmzi) is pony town's **GEORGE RUSSELL**
+
 [evboMC](https://github.com/evbomc) is pony town's **EVBO_**
 
 [faelightgex](https://github.com/faelightgex) is pony town's **COLUMBINA**
