@@ -2,6 +2,8 @@
 
 **Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can. If you want to be removed from your category at any point, let me know!**
 
+**TO THE PERSON WHO NOMINATED THEMSELVES AS CAINE TWICE I JUST WANT TO LET YOU KNOW THAT YOU DIDN'T GIVE ME YOUR GITHUB!! I FEEL BAD AND WANT TO ADD YOU ON BECAUSE YOU WERE ONE OF THE ORIGINAL NOMINEES BUT I DON'T HAVE YOUR GIT. 💔**
+
 # **[NOMINATE SOMEONE](https://ptstars.straw.page/) (please don't spam)** , **[SCROLL OF FAME](https://github.com/pt-walk-of-fame/SCROLL-OF-FAME)**
 
 **POPULAR/WELL-KNOWN PLAYERS:** [5poke](https://github.com/5poke), [Gamblersi](https://github.com/gamblersi), [emariyaoi](https://github.com/emariyaoi), [timejumpduo](https://github.com/timejumpduo), [CONEXlONN](https://github.com/CONEXlONN), [tirgery123](https://github.com/tirgery123), [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST), [evboMC](https://github.com/evboMC), [gambling-addict](https://github.com/gambling-addict), [yvoisen](https://github.com/yvoisen),  [clownfoe](https://github.com/clownfoe), [Asrieluo](https://github.com/asrieluo), [qnakin](https://github.com/qnakin), [horroryaoi](https://github.com/horroryaoi), [yubelsrevenge](https://github.com/yubelsrevenge), [infugue](https://github.com/infugue), [100bottlesofglue](https://github.com/100bottlesofglue), [chick-habit](https://github.com/chick-habit), [Bigguykoi](https://github.com/bigguykoi)
