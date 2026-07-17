@@ -80,6 +80,8 @@
 
 [duowithme](https://github.com/duowithme) is pony town's **CYAN** (among us show)
 
+[e6348](https://github.com/e6348) is pony town's **MICHAEL JACKSON**
+
 [eggchannie](https://github.com/eggchannie) is pony town's **PURPLE** (among us show)
 
 [elisxne](https://github.com/elisxne) is pony town's **REGECT**
@@ -115,6 +117,8 @@
 [ilovekitt](https://github.com/ilovekitt) is pony town's **MINA ASHIDO**
 
 [ilyYatta](https://github.com/ilyyatta) is pony town's **YATTA THE PIÑATA**
+
+[jeffery2009lol](https://github.com/jeffery2009lol) is pony town's **JEFFERY** (class of '09)
 
 [jia-baoyu](https://github.com/jia-baoyu) is pony town's **WIFIES**
 
@@ -167,6 +171,8 @@
 [RingmasterAI](https://github.com/ringmasterai) is pony town's **CAINE**
 
 [saps4flux](https://github.com/saps4flux) is pony town's **JOPHIEL**
+
+[ShowMeYourTeeth](https://github.com/showmeyourteeth) is pony town's **BLU SNIPER**
 
 [SkeletalSomniac](https://github.com/skeletalsomniac) is pony town's **SLUMBERTALE SANS**
 
