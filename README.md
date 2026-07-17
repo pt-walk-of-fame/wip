@@ -60,6 +60,8 @@
 
 [cinnalemons](https://github.com/cinnalemons) is pony town's **CINNAMON COOKIE**
 
+[clairoshade](https://github.com/clairoshade) is pony town's **HIMIKO TOGA**
+
 [clownfoe](https://github.com/clownfoe) is pony town's **GRIAN**
 
 [coal-irl](https://github.com/coal-irl) is pony town's **COAL THE PET ROCK**
