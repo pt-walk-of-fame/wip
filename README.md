@@ -2,7 +2,7 @@
 
 **Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can. If you want to be removed from your category at any point, let me know!**
 
-**TO THE PERSON WHO NOMINATED THEMSELVES AS CAINE TWICE I JUST WANT TO LET YOU KNOW THAT YOU DIDN'T GIVE ME YOUR GITHUB!! I FEEL BAD AND WANT TO ADD YOU ON BECAUSE YOU WERE ONE OF THE ORIGINAL NOMINEES BUT I DON'T HAVE YOUR GIT. 💔**
+**TO THE PERSON WHO NOMINATED THEMSELVES AS CAINE TODAY BECAUSE THEIR ORIGINAL MESSAGE WAS SENT ON JULY 3RD AND GOT DELETED, I JUST WANT TO LET YOU KNOW THAT YOU DIDN'T GIVE ME YOUR GITHUB!! I FEEL BAD AND WANT TO ADD YOU ON BECAUSE YOU WERE ONE OF THE ORIGINAL NOMINEES BUT I DON'T HAVE YOUR GIT. 💔**
 
 # **[NOMINATE SOMEONE](https://ptstars.straw.page/) (please don't spam)** , **[SCROLL OF FAME](https://github.com/pt-walk-of-fame/SCROLL-OF-FAME)**
 
