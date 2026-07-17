@@ -116,6 +116,8 @@
 
 [ilovekitt](https://github.com/ilovekitt) is pony town's **MINA ASHIDO**
 
+[ilyreigen](https://github.com/ilyreigen) is pony town's **REIGEN ARATAKA**
+
 [ilyYatta](https://github.com/ilyyatta) is pony town's **YATTA THE PIÑATA**
 
 [jeffery2009lol](https://github.com/jeffery2009lol) is pony town's **JEFFERY** (class of '09)
@@ -211,6 +213,8 @@
 [Uictim](https://github.com/uictim) is pony town's **THE DARK LORD** (animator vs animation)
 
 [velvettoru](https://github.com/velvettoru) is pony town's **GOJO SATORU**
+
+[VOXMANIA](https://github.com/voxmania) is pony town's **VOX**
 
 [WeepingArchangel](https://github.com/weepingarchangel) is pony town's **KARL** (guts & blackpowder)
 
