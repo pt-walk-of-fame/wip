@@ -140,8 +140,6 @@
 
 [house-of-odin](https://github.com/house-of-odin) is pony town's **LOKI**
 
-[idlecry](https://github.com/idlecry) is pony town's **JUDELOW**
-
 [ilovekitt](https://github.com/ilovekitt) is pony town's **MINA ASHIDO**
 
 [ilyreigen](https://github.com/ilyreigen) is pony town's **REIGEN ARATAKA**
