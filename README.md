@@ -2,7 +2,7 @@
 
 **Thank you so much to everyone who nominated someone! I'm so happy to say that I will be keeping the PTWOF going and will be adding more people who get nominated when I can. If you want to be removed from your category at any point, let me know!**
 
-**Updates are very slow right now as I've gotten very busy. :) LAST UPDATE: July 20th, 2026**
+**Updates are very slow right now as I've gotten very busy. :) LAST UPDATE: July 20th, 2026 @ 8:38PM PST**
 
 **To request to remove someone problematic, please refer to the ATABOOK as it makes it easier to organize things and ensures it won't not send and I won't skim past it!! Thank you :D Messages on the ATA are sent to review so I can look at them privately, they won't be posted when you send and I won't approve them!! The person is 100% more likely to be removed if proof is provided.** **https://ptwalkoffamee.atabook.org/**
 
@@ -230,6 +230,8 @@
 
 [OV3RCA5T](https://github.com/ov3rca5t) is pony town's **CONTRACTEE**
 
+[papercraftscraps](https://github.com/papercraftscraps) is pony town's **SCRAPS THE PAPER CRAFT**
+
 [Pathogen-Interface](https://github.com/pathogen-interface) is pony town's **ROCKET** (phighting)
 
 [PennywisefansDNI](https://github.com/pennywisefansdni) is pony town's **PENNYWISE**
@@ -269,6 +271,8 @@
 [seraphlazer](https://github.com/seraphlazer) is pony town's **HYPERLASER**
 
 [shurilong](https://github.com/shurilong) is pony town's **COIL**
+
+[SonicTheHedgehogs](https://github.com/sonicthehedgehogs) is pony town's **SONIC.EXE**
 
 [spinadirosula](https://github.com/spinadirosula) is pony town's **GRELL**
 
@@ -348,7 +352,7 @@
 
 [Yaoi-shihoan](https://github.com/yaoi-shihoan) is pony town's **SHIHO HINOMORI**
 
-[yvoisen](https://github.com/yvoisen) is pony town's **CLOWNPIERCE**
+[yvoisen](https://github.com/yvoisen) is pony town's **REGECT**
 
 **I'm sorry if you weren't added, some of the nominations were deleted right before I started making the list. I created this account on July 3rd, so if you sent a nomination on July 3rd and don't see the person you nominated in their category, it's highly likely that it was deleted, so you can resend through the strawpage if you'd like :) Also, some people changed their git usernames so I couldn't add them.**
 
