@@ -24,7 +24,7 @@
 
 **UNDERRATED PLAYERS:** [njqh](https://github.com/njqh), [oqullent](https://github.com/oqullent), [ponuoo](https://github.com/ponuoo)
 
-**FRIENDLIEST PEOPLE OAT:** [Beanelli](https://github.com/beanelli)
+**FRIENDLIEST PERSON OAT:** [Beanelli](https://github.com/beanelli)
 
 **COUNTESS OF PONY TOWN:** [DarlingCountess](https://github.com/darlingcountess)
 
