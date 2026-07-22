@@ -26,7 +26,7 @@
 
 **FRIENDLIEST PEOPLE OAT:** [Beanelli](https://github.com/beanelli)
 
-**PONY TOWN'S COUNTESS:** [DarlingCountess](https://github.com/darlingcountess)
+**COUNTESS OF PONY TOWN:** [DarlingCountess](https://github.com/darlingcountess)
 
 # CHARACTERS OF PONY TOWN (alphabetical order)
 
